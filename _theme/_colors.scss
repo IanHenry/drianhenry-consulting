@@ -1,0 +1,22 @@
+@use "sass:color";
+
+// Consulting – strategy & transformation
+$primary: #d35400; // Warm orange
+$secondary: #f39c12; // Golden accent
+$bg-light: #fdf6f0;
+$text-color: #2b1d14;
+$heading-color: #a04000;
+
+// Typography
+$font-body: 'Inter', sans-serif;
+$font-heading: 'Poppins', sans-serif;
+$font-mono: 'Source Code Pro', monospace;
+
+// Links
+a {
+  color: $primary;
+  &:hover {
+    color: color.scale($primary, $lightness: -10%);
+  }
+}
+
