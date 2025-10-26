@@ -4,17 +4,19 @@ title: Consulting
 
 # Data Science & Digital Transformation Consulting
 
-<div class="service-card">
+<div class="service-card card">
 I help organisations leverage data to improve performance, deliver strategic insights, and drive digital transformation.
 </div>
 
-<div class="service-card">
-**Focus Areas**
+<div class="service-card card">
+## Focus Areas
 - Data-driven strategy
 - Digital transformation initiatives
 - Multi-modal data analytics in life sciences
 - Organisational change and team development
 </div>
 
+<div class="service-card card">
 [View Services](services.qmd)
+</div>
 
