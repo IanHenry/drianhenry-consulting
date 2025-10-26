@@ -9,8 +9,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Services
-        href: services.qmd
+      - text: About
+        href: about.qmd
       - text: Contact
         href: contact.qmd
     right:
