@@ -46,12 +46,11 @@ a {
   text-align: center;
   overflow: hidden;
 
-  // global overlay tint, adjustable per-page
   &::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35)); // default 35% dark
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35));
     z-index: 1;
   }
 
@@ -63,11 +62,11 @@ a {
   }
 
   &.light-overlay::before {
-    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4)); // brightens image
+    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4));
   }
 
   &.dark-overlay::before {
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4)); // darkens image
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4));
   }
 }
 
@@ -83,5 +82,29 @@ a {
 .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+/* Footer */
+.site-footer {
+  padding: 1.5rem;
+  background-color: c.$bg-light;
+  color: c.$text-color;
+  text-align: center;
+  font-size: 0.9rem;
+  border-top: 1px solid color.scale(c.$text-color, $lightness: 80%);
+
+  a {
+    color: c.$secondary;
+    text-decoration: none;
+    &:hover {
+      color: color.scale(c.$secondary, $lightness: -10%);
+      text-decoration: underline;
+    }
+  }
+
+  .footer-content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
 }
 

@@ -72,4 +72,26 @@ a:hover {
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* Footer */
+.site-footer {
+  padding: 1.5rem;
+  background-color: #e8eaf6;
+  color: #1a237e;
+  text-align: center;
+  font-size: 0.9rem;
+  border-top: 1px solid rgb(195.6473684211, 199.8868421053, 242.7526315789);
+}
+.site-footer a {
+  color: #536dfe;
+  text-decoration: none;
+}
+.site-footer a:hover {
+  color: rgb(49.4947976879, 80.5595375723, 253.8052023121);
+  text-decoration: underline;
+}
+.site-footer .footer-content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 /*# sourceMappingURL=_base.css.map */
