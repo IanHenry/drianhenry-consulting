@@ -46,11 +46,12 @@ a {
   text-align: center;
   overflow: hidden;
 
+  // global overlay tint, adjustable per-page
   &::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35));
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.35)); // default 35% dark
     z-index: 1;
   }
 
@@ -62,11 +63,11 @@ a {
   }
 
   &.light-overlay::before {
-    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4));
+    background: rgba(255, 255, 255, var(--overlay-opacity, 0.4)); // brightens image
   }
 
   &.dark-overlay::before {
-    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4));
+    background: rgba(0, 0, 0, var(--overlay-opacity, 0.4)); // darkens image
   }
 }
 
@@ -107,4 +108,3 @@ a {
     margin: 0 auto;
   }
 }
-
