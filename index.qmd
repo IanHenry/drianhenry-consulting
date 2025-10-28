@@ -1,5 +1,13 @@
 ---
-title: Consulting & Data Strategy
+title: "Data Strategy & Consulting – Dr Ian Henry"
+description: "Strategic consulting for life science organisations: data strategy, AI adoption, and digital transformation to deliver actionable insights."
+author: "Dr Ian Henry"
+keywords: ["data consulting", "digital transformation", "life science consulting", "FAIR data", "AI strategy", "analytics consulting"]
+canonical: "https://consulting.drianhenry.co.uk/"
+og-title: "Data Strategy & Consulting – Dr Ian Henry"
+og-description: "Deliver actionable data strategies, AI implementation, and digital transformation services for life science organisations."
+og-image: "images/hero-consulting.jpg"
+twitter-card: "summary_large_image"
 ---
 
 <!-- Hero Section -->
