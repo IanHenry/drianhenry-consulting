@@ -1,39 +1,223 @@
 ---
-title: Consulting
+title: Consulting & Data Strategy
 ---
 
-# Consulting Services
+<!-- Hero Section -->
+<div class="parallax light-overlay" style="background-image: url('images/hero-consulting.jpg'); --overlay-opacity: 0.35;">
+  <div class="overlay">
+   <h1>Consulting in Science, Data & Strategy</h1>
+   <h3>Transforming data into insight — and insight into action</h3>
+  </div>
+</div>
+
+# 1. Overview
 
 <div class="service-card card">
-## Corporate & Life Science Projects
-- Data strategy & governance
-- Digital transformation planning
-- AI and data science implementation
-- Multi-modal clinical data analysis
+
+I provide strategic consulting and advisory services for organisations in life sciences, healthcare, and data-driven industries — helping them design, implement, and scale effective data and digital strategies.
+
+With experience spanning academia, biotech, and corporate R&D — including leadership of data science strategy at AstraZeneca and advisory roles across European research institutes — I bridge the gap between technical innovation and organisational impact.
+
+**Consulting services help organisations:**
+- Define and deliver clear data strategies aligned with business goals  
+- Implement FAIR and reproducible data governance frameworks  
+- Build capacity in AI, data science, and digital transformation  
+- Translate complex data into actionable insight for science and strategy  
+- Develop teams and culture for sustainable, data-driven decision-making  
+
+</div>
+
+# 2. Consulting Services
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Data Strategy & Governance {{< iconify lucide:database >}} {{< iconify lucide:shield >}}
+
+- Design data strategies tailored to scientific and organisational goals  
+- Implement FAIR, compliant, and scalable data governance frameworks  
+- Improve discoverability, interoperability, and reuse of research data  
+- Create measurable policies that reduce data access time and increase efficiency  
+
 </div>
 
 <div class="service-card card">
-## Achievements
-- Led AstraZeneca CVRM data science strategy, enhancing R&D decision-making
-- Delivered strategic data science advisory to European research institutions
-- Implemented FAIR data policies, reducing data access times from months to hours
+
+### Digital & AI Transformation {{< iconify lucide:cpu >}} {{< iconify lucide:settings >}}
+
+- Develop actionable roadmaps for digital transformation  
+- Integrate AI and machine learning for research and operational insight  
+- Support adoption of cloud, automation, and advanced analytics platforms  
+- Align technology decisions with organisational capability and culture  
+
 </div>
 
 <div class="service-card card">
-## Who This Is For
-- Pharmaceutical and biotech companies
-- Corporate teams seeking data-driven transformation
-- Organisations wanting actionable insights from complex datasets
+
+### Scientific & Clinical Data Consulting {{< iconify lucide:flask-conical >}} {{< iconify lucide:activity >}}
+
+- Design and interpret multi-modal clinical and omics data projects  
+- Build reproducible analysis pipelines (Python, R, bioinformatics)  
+- Apply data science for translational research and precision medicine  
+- Support publication-quality results and cross-disciplinary collaboration  
+
+</div>
+
+</div>
+
+# 3. Achievements & Experience
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Strategic Leadership {{< iconify lucide:target >}} {{< iconify lucide:bar-chart >}}
+
+- Led AstraZeneca CVRM data science strategy, enhancing R&D decision-making  
+- Directed cross-functional teams in computational biology and data analytics  
+- Delivered end-to-end initiatives from strategy to implementation  
+
 </div>
 
 <div class="service-card card">
-## How I Work
-- Collaborative workshops with key stakeholders
-- Tailored data strategy aligned with organisational goals
-- Hands-on mentoring and team development for sustainable change
+
+### Advisory Impact {{< iconify lucide:briefcase >}} {{< iconify lucide:users >}}
+
+- Provided strategic data science guidance to major European research institutions  
+- Consulted on digital transformation and FAIR data frameworks  
+- Helped organisations unlock actionable insights from complex, distributed data  
+
 </div>
 
 <div class="service-card card">
-## Next Steps
-[Contact Me](contact.qmd)
+
+### Proven Results {{< iconify lucide:check-circle >}} {{< iconify lucide:clock >}}
+
+- Reduced data access times from months to hours through data governance reform  
+- Designed reproducible research workflows across multi-site collaborations  
+- Integrated academic, clinical, and corporate data for strategic decision-making  
+
 </div>
+
+</div>
+
+# 4. Consulting Philosophy
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Evidence-Driven Strategy {{< iconify lucide:brain >}} {{< iconify lucide:lightbulb >}}
+
+- Grounded in data-driven decision-making and scientific methodology  
+- Balances innovation with practicality and operational realities  
+- Ensures recommendations are measurable, reproducible, and sustainable  
+
+</div>
+
+<div class="service-card card">
+
+### Collaborative & Adaptive Approach {{< iconify lucide:users >}} {{< iconify lucide:compass >}}
+
+- Works closely with stakeholders to co-design solutions  
+- Tailors engagement to organisational maturity and capability  
+- Builds internal ownership for long-term success  
+
+</div>
+
+<div class="service-card card">
+
+### Capacity & Culture Development {{< iconify lucide:trending-up >}} {{< iconify lucide:heart >}}
+
+- Focuses on team empowerment, mentoring, and knowledge transfer  
+- Integrates technical delivery with leadership and culture change  
+- Helps organisations grow capability — not dependency  
+
+</div>
+
+</div>
+
+# 5. How I Work
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Collaborative Workshops {{< iconify lucide:calendar >}} {{< iconify lucide:message-square >}}
+
+- Discovery sessions with leadership and technical teams  
+- Alignment of data strategy with business and research objectives  
+- Rapid identification of opportunities and blockers  
+
+</div>
+
+<div class="service-card card">
+
+### Strategic Roadmapping {{< iconify lucide:map >}} {{< iconify lucide:target >}}
+
+- Tailored strategy documents with clear milestones and KPIs  
+- Integration of technical, organisational, and cultural dimensions  
+- Actionable recommendations for sustainable transformation  
+
+</div>
+
+<div class="service-card card">
+
+### Mentoring & Team Development {{< iconify lucide:users >}} {{< iconify lucide:graduation-cap >}}
+
+- Hands-on mentoring for data and digital teams  
+- Coaching leaders on managing change and technical delivery  
+- Building self-sufficient, high-performing analytical teams  
+
+</div>
+
+</div>
+
+# 6. Get in Touch
+
+<div class="card-grid">
+
+<div class="service-card card">
+
+### Contact Me {{< iconify lucide:mail >}}
+
+Ready to explore how consulting can accelerate your organisation’s goals?  
+Contact me to discuss your needs or arrange an initial consultation.
+
+📧 Email: [consulting@drianhenry.co.uk](mailto:consulting@drianhenry.co.uk)  
+🌐 Book online: [Contact Form →](contact.qmd)
+
+</div>
+
+<div class="service-card card">
+
+### Engagement Options {{< iconify lucide:book-open >}}
+
+- Short-term strategy sprints or project-specific consulting  
+- Long-term advisory partnerships for ongoing transformation  
+- Flexible engagement formats — remote, hybrid, or on-site  
+
+</div>
+
+<div class="service-card card">
+
+### Next Steps {{< iconify lucide:compass >}}
+
+- Initial consultation to define objectives and scope  
+- Custom proposal with clear deliverables and timeline  
+- Continuous collaboration and measurable outcomes  
+
+</div>
+
+</div>
+
+---
+
+<div class="service-card card" style="text-align:center; margin-top:2rem;">
+  <h3>Bridging Coaching & Consulting {{< iconify lucide:link >}}</h3>
+  <p>Consulting turns data and strategy into impact — while coaching develops the people who deliver it.  
+  Together, they build the technical and leadership foundations for lasting organisational success.</p>
+  <p><a href="https://coaching.drianhenry.co.uk">Explore Coaching →</a></p>
+</div>
+
