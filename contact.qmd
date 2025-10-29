@@ -13,7 +13,7 @@ For consulting inquiries:
     data-cal-link="drianhenry/introductory-business-consultation"
     data-cal-namespace="introductory-business-consultation"
     data-cal-config='{"layout":"month_view"}'>
-    Book a Free Intro Session
+    Book a Free Introductory Conversation
   </button>
 </div>
 
