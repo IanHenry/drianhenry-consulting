@@ -6,6 +6,7 @@ project:
 website:
   title: "Consulting – Dr Ian Henry"
   site-url: "consulting.drianhenry.co.uk"
+  favicon: images/favicon.ico
   navbar:
     left:
       - text: Home
@@ -29,6 +30,7 @@ format:
     include-in-header:
       - _includes/_structured-data-consulting.html
       - _includes/_ga4.html
+      - _includes/_favicons.html
     include-after-body: 
       - _includes/_footer.html
       - _includes/_cookie-consent.html
